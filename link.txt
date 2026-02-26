@@ -1,1 +1,1 @@
-http://privserv.my.id:2018
+https://updat-eversi-txs.vercel.app/
