@@ -1,1 +1,1 @@
-http://legal.nexahost.cloud:2016
+https://updat-eversi-txs.vercel.app/
